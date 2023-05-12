@@ -1,5 +1,5 @@
 {
-	"name": "@imjano/compare_objects",
+	"name": "imjano_compare_objects",
 	"version": "1.0.0",
 	"main": "dist/main",
 	"scripts": {
