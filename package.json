@@ -1,5 +1,5 @@
 {
-	"name": "imjano_compare_objects",
+	"name": "compare_objects_imjano",
 	"version": "1.0.0",
 	"main": "dist/main",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"typings": "types/main.d.ts",
 	"keywords": [],
-	"author": "imjano",
+	"author": "Alejandro Garcia <imjano@outlook.com>",
 	"license": "ISC",
 	"description": "This function compare deeply 2 objects and returns true if the objects are identical",
 	"devDependencies": {

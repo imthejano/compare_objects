@@ -1,17 +1,17 @@
-# imjano_compare_objects
+# compare_objects_imjano
 
 This function provides a recursive function to check if two objects are equal.
 
 ## Installation
 
 ```bash
-npm install imjano_compare_objects
+npm install compare_objects_imjano
 ```
 
 ## Usage
 
 ```javascript
-const compareObjects = require('imjano_compare_objects')
+const compareObjects = require('compare_objects_imjano')
 
 const obj1 = {
 	name: 'John',
