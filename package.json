@@ -6,6 +6,7 @@
 		"build": "tsc",
 		"test": "jest"
 	},
+	"typings": "types/main.d.ts",
 	"keywords": [],
 	"author": "imjano",
 	"license": "ISC",

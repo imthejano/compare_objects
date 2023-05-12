@@ -7,4 +7,4 @@
  * returns true if the objects are identical
  */
 declare function compareObjects(obj1: any, obj2: any): boolean
-export = compareObjects
+export default compareObjects
