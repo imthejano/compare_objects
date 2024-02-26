@@ -1,7 +1,7 @@
 import compareObjects from '../src/index'
 
 /**
- * create diferent kind of objects to compare
+ * create different kind of objects to compare
  */
 
 const objA = {
