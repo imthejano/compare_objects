@@ -2,8 +2,9 @@
 	"compilerOptions": {
 		"target": "es6",
 		"module": "commonjs",
-		"outDir": "dist",
-		"strict": true
+		"outDir": "module",
+		"strict": true,
+		"declaration": true
 	},
 	"include": ["src/**/*", "types"],
 	"exclude": ["node_modules"]

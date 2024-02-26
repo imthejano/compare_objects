@@ -1,13 +1,20 @@
 {
-	"name": "compare_objects_imjano",
+	"name": "@imjano/compare_2_objects",
 	"version": "1.0.0",
-	"main": "dist/main",
+	"main": "module/index",
 	"scripts": {
 		"build": "tsc",
 		"test": "jest"
 	},
-	"typings": "types/main.d.ts",
-	"keywords": [],
+	"types": "module/index.d.ts",
+	"keywords": [
+		"compare objects",
+		"compare",
+		"objexts",
+		"copare deeply",
+		"basic function",
+		"imjano"
+	],
 	"author": "Alejandro Garcia <imjano@outlook.com>",
 	"license": "ISC",
 	"description": "This function compare deeply 2 objects and returns true if the objects are identical",
@@ -23,5 +30,6 @@
 	},
 	"bugs": {
 		"url": "https://github.com/imthejano/compare_objects/issues"
-	}
+	},
+	"homepage": "https://github.com/imthejano/compare_objects#readme"
 }

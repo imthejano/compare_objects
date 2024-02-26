@@ -1,4 +1,4 @@
-import compareObjects from '../src/main'
+import compareObjects from '../src/index'
 
 /**
  * create diferent kind of objects to compare
